@@ -63,12 +63,14 @@ body{
   border: 3px solid blanchedalmond;
   width: 49.5%;
   vertical-align: left;
+  min-height: 640px;
   display: inline-block;
   padding: 1rem 1rem;
 }
-#game{
+#figma{
   border: 3px solid blanchedalmond;
   width: 49.5%;
+  
   vertical-align: right;
   display: inline-block;
   padding: 1rem 1rem;
@@ -79,4 +81,3 @@ body{
   width: 98%;
   padding: 1rem 1rem;
 }
-
